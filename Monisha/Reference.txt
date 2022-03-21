@@ -1,7 +1,0 @@
-REFERENCES
-
- 1.https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
- 
-YOUTUBE LINK
-
- 1.https://youtube.com/playlist?list=PL3uLubnzL2TlYtdrd8pdgLKrzMf1rj_aq
