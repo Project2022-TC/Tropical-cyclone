@@ -1,0 +1,7 @@
+Reference:
+
+https://www.google.com/amp/s/www.geeksforgeeks.org/introduction-convolution-neural-network/amp/
+
+https://www.analyticsvidhya.com/blog/2021/05/convolutional-neural-networks-cnn/
+
+https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53
