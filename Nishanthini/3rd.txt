@@ -1,0 +1,9 @@
+Reference:
+
+https://www.google.com/amp/s/www.geeksforgeeks.org/vgg-16-cnn-model/amp/
+
+https://medium.com/analytics-vidhya/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
+
+https://www.analyticsvidhya.com/blog/2021/06/build-vgg-net-from-scratch-with-python/
+
+https://viso.ai/deep-learning/vgg-very-deep-convolutional-networks/
